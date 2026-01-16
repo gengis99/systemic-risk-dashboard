@@ -55,6 +55,12 @@ L'analisi si basa su:
 ---
 
 ## 🚀 Come eseguire la dashboard
+---
+
+**Note importanti:**
+- Il comando `python app.py` deve essere eseguito nel terminale per avviare il server della dashboard.  
+- La dashboard è accessibile localmente su **http://127.0.0.1:8050**.
+- Assicurati di avere installato **tutte le dipendenze** e che il tuo ambiente virtuale sia attivo.
 
 ### 1. Creare un ambiente virtuale:
 Assicurati di avere Python 3.11 o superiore installato. Esegui i seguenti comandi per creare un ambiente virtuale:
@@ -65,3 +71,4 @@ Assicurati di avere Python 3.11 o superiore installato. Esegui i seguenti comand
 - Installa tutte le librerie necessarie eseguendo il comando: pip install -r
 - Per eseguire la dashboard, usa il comando: python app.py
 - La dashboard sarà disponibile al seguente indirizzo: http://127.0.0.1:8050
+'''
