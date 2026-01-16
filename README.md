@@ -39,7 +39,7 @@ L'analisi si basa su:
 
 ## 📁 Struttura del repository
 - app.py                # Codice principale della dashboard interattiva
-- script.py             # Script e analisi Python
+- script.ipynb             # Script e analisi Python
 - REPORT.PDF            # Report dettagliato scritto in LateX ed esportato in PDF
 
 ---
